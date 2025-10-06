@@ -1,0 +1,20 @@
+<html>
+<head><title>Titulo e Paragrafo</title></head>
+<body>
+
+    <h1>Davy de Araujo Silva</h1>
+
+    <h2>Quero ser designer grafico</h2>
+
+    <h3>Introdução</h3>
+    <p>Olá! Meu nome é <strong>Davy</strong> e eu sou apaixonado por <em>designer</em>.
+    Nesta página, vou compartilhar um pouco sobre meus interesses e aprendizados.</p>
+
+    <p>Você pode conhecer mais sobre meus projetos no meu <a href="https://github.com/Davyaraujo01" target="_blank">GitHub</a>.</p>
+
+    <h3>Por que gosto de designer grafico?</h3>
+    <p>Aos meus 10 anos surgiu uma vontade de desenhar e criar ptojetos, principalmente <strong>carros</strong>. Sempre gostei de carros, 
+        derrepente surgiu a vontade de desenhar, assim, veio a ideia de ser <strong>designer grafico</strong>.</p>
+</body>
+
+</html>
